@@ -1,0 +1,17 @@
+/* dashboard-header {
+    background-color: #f8f9fa;
+    padding: 150px;
+    border-bottom: 1px solid #ddd;
+} */
+.dashboard-sidebar {
+    background-color: #343a40;
+    color: #fff;
+    height: 720px;
+    padding: 15px;
+}
+.dashboard-content {
+    padding: 15px;
+}
+.card {
+    margin-bottom: 20px;
+}
